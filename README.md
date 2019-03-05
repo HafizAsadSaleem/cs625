@@ -1,2 +1,2 @@
 # cs625
-it is to test github
+it is used to test github
